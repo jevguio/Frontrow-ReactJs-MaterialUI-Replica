@@ -1,0 +1,78 @@
+body{
+    background-color: black;
+}
+.img1{
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 500px;
+}.img2{ 
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 800px; 
+}
+.text-uppercase{
+    color: rgb(207, 207, 207);
+}
+.text-white{
+    text-decoration: none;
+}
+.form-label{
+    color: ghostwhite;
+}
+.Subscribe{
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 10px;
+}.Subscribe:hover{
+    background-color: rgb(175, 0, 0);
+    border: none;
+    color: white;
+    padding: 10px;
+}
+.btprod{
+    padding: 10px;
+    border-radius: 20px;
+    border: red solid 3px;
+    text-decoration: none;
+    color:rgb(255, 0, 0);
+    display: block;
+    width: 20%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.btprod:hover{
+    text-decoration: underline;
+}
+.login input{
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-bottom: gray solid 1px;
+    width: 80%;
+}
+.login a{
+    color: red;
+    text-decoration: none;
+    width: 60%;
+    display: block;
+    padding: 10px;
+}
+.login a:hover{
+    color: rgb(167, 59, 59); 
+}.login button:hover{ 
+    
+    background-color: rgb(167, 59, 59);
+}
+.login button{
+    margin-top: 5%;
+    background-color: red;
+    color: white; 
+    border: none;
+    text-decoration: none;
+    width: 60%;
+    display: block;
+    padding: 5px;
+}

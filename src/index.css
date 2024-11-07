@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+}
+.shop{
+    padding-top: 10%;
+    background-color: white; 
+    display: grid;
+    width: 100%;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    align-items: start; 
+    padding: 5%;
+}
+.product{
+    padding: 5%;
+    text-align: center; 
+}
+.product .img{
+    border: gray 1px solid;
+    padding: 10px; 
+    scale: 1;
+}
+.product img{
+    
+    transition: all 0.5s;
+}
+.product .img:hover img{
+    scale: 1.1;
+    
+}
+.product a{
+    text-decoration: none;
+    cursor: pointer;
+}
+.product a:hover{ 
+    
+    color: rgb(145, 8, 8);
+}
+.Cart{
+    color: red;
+
+}

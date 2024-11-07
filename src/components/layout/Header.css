@@ -1,0 +1,75 @@
+nav{
+    display: flex;
+    background-color: black;
+    color:white;
+    position: fixed;
+    align-content: center;
+    justify-content: space-between;
+    z-index: 1;
+    width: 100%;
+}
+.icon{
+    background-color: transparent;
+    color: white;
+    border: none;
+    font-size: xx-large;
+    padding: 20px;
+}
+.icon:hover{
+    color: rgb(198, 198, 198);
+}
+nav span{
+    display: flex;
+
+    align-content: center;
+    text-align: center;
+    align-items: center;
+}
+nav span a{
+    text-decoration: none;
+    color: rgb(216, 216, 216);
+    padding: 5px;
+    align-content: center;
+    text-align: center;
+}
+.Login{ 
+    background-color: red;
+    align-content: center;
+    text-align: center;
+    border: none;
+    color: white;
+    border-radius: 6px;
+    padding: 5px;
+    width: 80px;
+    margin-left: 5px;
+}
+nav span a:hover{ 
+    color: rgb(227, 0, 0);
+}
+body,#root{
+    margin: 0;
+    padding: 0;
+    
+    background-color: black !important;
+}
+.logo{
+    max-width: 250px;
+    padding:20px 10px;
+    width: 100%;
+} 
+.center{
+    height: 100%;
+    display: flex;
+    align-content: center;
+    text-align: center;
+    align-items: center;
+}
+.center i{
+    
+    height: 100%;
+    color: rgb(216, 216, 216);
+}
+.center:hover i{
+    
+    color: rgb(255, 255, 255);
+}
