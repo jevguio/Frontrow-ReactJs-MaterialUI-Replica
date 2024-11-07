@@ -1,5 +1,6 @@
 # Frontrow ReactJs Vite Clone
-<a href="https://jevguio.github.io/Frontrow-ReactJs-MaterialUI-Replica/" target="_blank">Preview Page</a>
+<a href="https://jevguio.github.io/Frontrow-ReactJs-MaterialUI-Replica/" onclick="window.open(this.href); return false;">Preview Page</a>
+
 
 
 
