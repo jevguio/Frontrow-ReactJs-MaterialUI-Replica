@@ -9,33 +9,19 @@ import 'bootstrap/dist/css/bootstrap.min.css'; // Import Bootstrap CSS
 import 'bootstrap/dist/js/bootstrap.bundle.min.js'; // Import Bootstrap JS
 
 import 'bootstrap-icons/font/bootstrap-icons.css'; // Import Bootstrap Icons CSS
-import {
-  createBrowserRouter,
-  RouterProvider,
-} from "react-router-dom";
-const router = createBrowserRouter([
-  {
-    path: "/",
-    element: <Login/>,
-  },   {
-    path: "/home",
-    element: <App/>,
-  },  {
-    path: "/Shop",
-    element: <Shop/>,
-  },  {
-    path: "/ABOUT",
-    element: <About/>,
-  },  {
-    path: "/BELIEVERS",
-    element: <App/>,
-  },{
-    path: "/CONTACTS",
-    element: <App/>,
-  },
-]);
+import { HashRouter, Routes, Route } from "react-router-dom";
+
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-  <RouterProvider router={router} />
+    <HashRouter>
+      <Routes>
+        <Route path="/" element={<Login />} />
+        <Route path="/home" element={<App />} />
+        <Route path="/shop" element={<Shop />} />
+        <Route path="/about" element={<About />} />
+        <Route path="/believers" element={<App />} />
+        <Route path="/contacts" element={<App />} />
+      </Routes>
+    </HashRouter>
   </React.StrictMode>,
 )
