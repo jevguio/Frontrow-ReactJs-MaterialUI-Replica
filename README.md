@@ -1,4 +1,5 @@
-[# Frontrow ReactJs Vite Clone ](https://socialify.git.ci/jevguio/Frontrow-ReactJs-MaterialUI-Replica/image?description=1&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark)
+![Frontrow-ReactJs-MaterialUI-Replica](https://socialify.git.ci/jevguio/Frontrow-ReactJs-MaterialUI-Replica/image?description=1&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark)
+# Frontrow ReactJs Vite Clone
 [Open New Window](https://jevguio.github.io/Frontrow-ReactJs-MaterialUI-Replica/)
 
 
