@@ -1,5 +1,5 @@
 # Frontrow ReactJs Vite Clone 
-<button onclick="window.open('https://jevguio.github.io/Frontrow-ReactJs-MaterialUI-Replica/', '_blank', 'width=800,height=600')">Open New Window</button>
+[Open New Window](https://jevguio.github.io/Frontrow-ReactJs-MaterialUI-Replica/)
 
 
 
