@@ -1,5 +1,6 @@
 # Frontrow ReactJs Vite Clone
-[Preview Page](https://jevguio.github.io/Frontrow-ReactJs-MaterialUI-Replica/)
+[Preview Page](https://jevguio.github.io/Frontrow-ReactJs-MaterialUI-Replica/){:target="_blank"}
+
 
 
 ## Description
