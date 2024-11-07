@@ -1,5 +1,5 @@
 # Frontrow ReactJs Vite Clone
-[Preview Page](https://jevguio.github.io/Facebook-clone-ReactJsXMaterial-UI/)
+[Preview Page](https://jevguio.github.io/Frontrow-ReactJs-MaterialUI-Replica/)
 
 
 ## Description
